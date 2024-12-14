@@ -58,7 +58,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   late Future<List<Photo>> futurePhotos;
-  String home ="Rajaaaaa";
+  String home ="Rajaaaaajyygtygvghfvhg";
 
   @override
   void initState() {
